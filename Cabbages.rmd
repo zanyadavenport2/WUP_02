@@ -65,3 +65,4 @@ There is a .00000003405 probability of c39 producing the same amount of vitamins
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The boxplot shows that c59 is higher in vitamins. The stats show us that they start off higher than c39. The inferential test tells us there is a .000000003405 probability of c39 producing as many vitamins as c52. therefore c52 produces more vitamins than c39.
